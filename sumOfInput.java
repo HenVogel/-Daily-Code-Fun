@@ -3,7 +3,7 @@
 import java.util.Scanner;  // Imports the Scanner class
 
 public class sumOfInput { // Starts the class
-    public static void main(String[] args) { // That one important thing in all the java code.
+    static void myMethod(String[] args) { // That one important thing in all the java code.
         Scanner numEntered = new Scanner(System.in);  // Create a Scanner object
         System.out.println("Enter some numbers: "); // Asks for user input
         int other = numEntered.nextInt();  // Reads user input
@@ -17,4 +17,9 @@ public class sumOfInput { // Starts the class
         System.err.println("The total of those numbers is:");
         System.out.println(sum); // print that sum yeah
     }
+
+    public static void main(String[] args) {
+        myMethod(args);
+    }
+    
 }
