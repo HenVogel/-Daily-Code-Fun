@@ -11,3 +11,6 @@ Added Addition Java code <br />
 Added DoIt Java code <br />
 Added Guess Number Java code <br />
 Added ThreeIsNotTheMagicNumber Java Code<br />
+
+# 2/12/25 <br />
+Added Method Java Code <br />
