@@ -14,3 +14,4 @@ Added ThreeIsNotTheMagicNumber Java Code<br />
 
 # 2/12/25 <br />
 Added Method Java Code <br />
+Added Arrays Java Code <br />
